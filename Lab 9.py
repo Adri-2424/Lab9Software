@@ -5,3 +5,7 @@ def encode(password):
         newPassword.append(str(newChar))
     return "".join(newPassword)
 
+
+
+
+
